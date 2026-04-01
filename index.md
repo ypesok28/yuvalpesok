@@ -1,5 +1,7 @@
 # Yuval Pesok
 
+![Cute dog](images/cute-dog.png)
+
 ## About me
 
 I am an undergraduate computer science student at UCSD.
@@ -12,11 +14,9 @@ Here is an example of inline code: `System.out.println("Hello, World!");`
 
 A code block:
 
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+```typescript
+function helloWorld(): void {
+    console.log("Hello, World!");
 }
 ```
 
