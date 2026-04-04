@@ -1,7 +1,5 @@
 # Yuval Pesok
 
-![Cute dog](images/cute-dog.png)
-
 ## About me
 
 I am an undergraduate computer science student at UCSD.
@@ -16,7 +14,7 @@ A code block:
 
 ```typescript
 function helloWorld(): void {
-    console.log("Hello, World!");
+  console.log("Hello, World!");
 }
 ```
 
@@ -45,3 +43,7 @@ function helloWorld(): void {
 - [x] Start a GitHub Pages site
 - [ ] Complete a personal project
 - [ ] Contribute to open source
+
+### Pictures
+
+![Cute dog](images/cute-dog.png)
