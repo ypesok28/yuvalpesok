@@ -36,13 +36,13 @@ function helloWorld(): void {
 
 - Java
 - Python
-- JavaScript
+- typescript
 
-### Goals
+### What I want in Spring Quarter
 
-- [x] Start a GitHub Pages site
-- [ ] Complete a personal project
-- [ ] Contribute to open source
+- [x] Try to become the best I can be
+- [ ] Get an A in CSE 110
+- [ ] BECOME AN AMAZING SOFTWARE ENGINEER
 
 ### Pictures
 
